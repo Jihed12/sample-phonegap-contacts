@@ -7,6 +7,12 @@ a search criteria, filtering a list of contacts by name, sorting a list of conta
 deleting a single contact, cloning a contact.
 The application uses the following libraries: jQuery, jQuery Mobile (for theming).
 
+Intel(R) HTML5 Development Environment Beta
+-------------------------------------------
+This sample is part of the Intel(R) HTML5 Development Environment tool. 
+Please sign up the beta at http://software.intel.com/en-us/html5.
+To see the technical detail of the sample, please visit the sample article page 
+at http://software.intel.com/en-us/articles/phonegap-contacts-work-with-the-devices-contact-database. 
 
 License Information Follows
 ---------------------------
